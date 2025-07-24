@@ -1,0 +1,5 @@
+authtoken: YOUR_NGROK_AUTHTOKEN
+tunnels:
+  jenkins:
+    addr: 8080
+    proto: http
