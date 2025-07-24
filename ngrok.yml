@@ -1,3 +1,4 @@
+version: "2"
 authtoken: 30JCjheKsfqf6nWwpJAVqBqI0Tk_4G2ujDNYihngVwCEo5pG3
 tunnels:
   jenkins:
